@@ -233,7 +233,3 @@ This deployed system allows:
 ## ✅ Conclusion
 
 This project demonstrates a **complete industry-grade ML pipeline** from raw customer data to a **deployed customer segmentation system** that supports real business decision-making.
-
----
-* **GitHub commit history**
-* **Deployment screenshots explanation**
