@@ -1,9 +1,3 @@
-Perfect — below is your **complete, final, professional GitHub README** for the
-**Customer Segmentation (Clustering) Machine Learning Project**, including **deployment**, written in **industry & interview standard**.
-
-You can copy-paste this into **README.md** on GitHub.
-
----
 
 # 🧠 Customer Segmentation using Machine Learning (Clustering)
 
